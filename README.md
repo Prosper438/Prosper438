@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prosper
-- 👀 I’m interested in anything pertaining data analysis
+- 👀 I’m interested in anything pertaining data analytics 
 - 💞️ I’m looking to collaborate on data science project
 - 📫 How to reach me  [Email me here](prosperamed70@gmail.com)
 - ⚡ Fun fact: I'm a Chemical Engineering undergraduate, and I play the piano 🎹
