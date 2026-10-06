@@ -14,6 +14,7 @@ models, and turn analysis into practical insights.
 - Scikit-learn
 - SQL
 - Git & GitHub
+- Microsoft Excel
 - Jupyter Notebook
 
 ## 🚀 Featured Projects
@@ -32,6 +33,4 @@ Regression project for predicting used-car prices from vehicle characteristics.
 ## 📚 Currently Learning
 
 - TensorFlow
-- Feature Selection
-- Model Evaluation
-- Statistical Methods for Machine Learning
+
